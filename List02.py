@@ -10,3 +10,4 @@ def main(fruits,x,i):
     """
     fruits.insert(i,x)
     return fruits
+    
