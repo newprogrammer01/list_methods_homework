@@ -6,4 +6,13 @@ def main(fruits):
     Returns:
         list: return answer
     """
-    return
+    ans=[]
+    while fruits:
+        x=fruits.pop()
+        if x!='apple':
+            ans.append(x)
+    return ans
+print(main(["apple","orange", "banana", "apple" ]))
+
+
+
