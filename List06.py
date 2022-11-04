@@ -7,5 +7,6 @@ def main(fruits):
         int: return answer
     """
     return fruits.count('apple')
-
     
+
+
