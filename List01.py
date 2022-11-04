@@ -7,9 +7,10 @@ def main(fruits,x):
     Returns:
         list: return answer
     """
-    x=fruits.append("kiwi")
-    return fruits
-print(main(["apple","banaana"],["x"]))
+    
+    return ftuits+[x]
+    
+
 
 
 
