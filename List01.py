@@ -9,7 +9,7 @@ def main(fruits,x):
     """
     x=fruits.append("kiwi")
     return fruits
-print(main(["apple","banaana"],[]))
+print(main(["apple","banaana"],["x"]))
 
 
 
