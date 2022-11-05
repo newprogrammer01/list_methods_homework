@@ -8,7 +8,10 @@ def main(fruits,x):
         list: return answer
     """
     
-    return ftuits+[x]
+    return fruits+[x]
+print(main(["apple","banana"],"kiwi"))
+
+
 
     
 
