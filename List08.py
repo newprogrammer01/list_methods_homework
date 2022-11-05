@@ -9,10 +9,9 @@ def main(fruits):
     ans=[]
     while fruits:
         x=fruits.pop()
-        if x!='apple':
+        if x!="apple":
             ans.append(x)
     return ans
-print(main(["apple","orange", "banana", "apple" ]))
-
+print(main(["apple","orange","banaana"]))
 
 
